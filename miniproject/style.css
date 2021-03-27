@@ -1,0 +1,17 @@
+.container {
+    width: 500px;
+    height:100%;
+    margin: 50px auto;
+    background: #c2ff90;
+    padding: 30px;
+    overflow: hidden;
+    text-align:center;
+    border-radius: 25px;
+    background: linear-gradient(to right, #f8ef9e 0%, #79fdac 50%, #55f9ff 100%); /* W3C */
+    -webkit-box-shadow: 1px 1px #8DB38B, 2px 2px #8DB38B, 3px 3px #8DB38B, 4px 4px #8DB38B, 5px 5px #8DB38B, 6px 6px #8DB38B, 7px 7px #8DB38B, 8px 8px #8DB38B;
+}
+body {
+    font-family: Tahoma;
+    line-height: 1.6em;
+    background: #a1ffd8cc;
+}
